@@ -121,9 +121,9 @@ for(i= 0; i < hatArray.length; i++) {
 	modal.appendChild(modalContent)
 
 
-	$(btn).click(function(){
+	/*$(btn).click(function(){
 		$(modal).modal();
-	});
+	});*/
 
 	// add new item to the element with id="shirts"
 	document.getElementById("products").appendChild(newItem)
